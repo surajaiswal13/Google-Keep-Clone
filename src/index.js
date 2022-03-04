@@ -12,6 +12,6 @@
 //HINT: You will need to study the classes in teh styles.css file to appy styling.
 import React from "react"
 import ReactDom from "react-dom"
-import App from "./App.jsx"
+import App from "./components/App.jsx"
 
 ReactDom.render(<App></App>, document.getElementById("root"))
